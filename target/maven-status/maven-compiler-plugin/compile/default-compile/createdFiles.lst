@@ -1,0 +1,14 @@
+service/WeatherService.class
+agent/WeatherAgent.class
+model/WeatherComponents$Wind.class
+model/WeatherComponents.class
+model/ForecastResponse$ForecastItem.class
+model/WeatherComponents$Sys.class
+model/WeatherComponents$Coord.class
+model/ForecastResponse.class
+model/WeatherComponents$Main.class
+model/WeatherComponents$Clouds.class
+model/CurrentWeatherResponse.class
+model/ForecastResponse$City.class
+model/WeatherComponents$Weather.class
+model/WeatherComponents$Rain.class
