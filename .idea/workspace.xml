@@ -5,15 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f29ec7d3-a7aa-4e2f-baf0-6fcb595b9dc2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WeatherAI.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/agent/WeatherAgent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/agent/WeatherAgent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/model/WeatherResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/model/WeatherResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/service/WeatherService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/service/WeatherService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/model/WeatherResponse$Builder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/model/WeatherResponse$Builder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/model/WeatherResponse.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/model/WeatherResponse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/service/WeatherService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/service/WeatherService.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,6 +20,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="KubernetesApiProvider"><![CDATA[{
+  "isMigrated": true
+}]]></component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -101,7 +101,7 @@
       <option name="presentableId" value="Default" />
       <updated>1743181455060</updated>
       <workItem from="1743181456595" duration="2243000" />
-      <workItem from="1743250880816" duration="1211000" />
+      <workItem from="1743250880816" duration="6873000" />
     </task>
     <servers />
   </component>
